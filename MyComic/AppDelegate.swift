@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  MyComic
-//
-//  Created by kool dc on 12/6/18.
-//  Copyright © 2018 Ahmad. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

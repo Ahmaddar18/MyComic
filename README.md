@@ -19,3 +19,4 @@ It can be done by the following link.
 https://stackoverflow.com/questions/47704954/getting-json-data-with-swift-4-and-xcode-9
 
 Thanks :)
+
